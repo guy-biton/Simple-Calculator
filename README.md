@@ -24,7 +24,7 @@ The design features a modern glassmorphism style with smooth gradients, blurred 
 
 ## Live Demo
 
-👉 [View the calculator here](https://guy-biton.github.io/Simple-Calculator/
+👉 [View the calculator here](https://guy-biton.github.io/Simple-Calculator/)
 
 ## Preview
 
