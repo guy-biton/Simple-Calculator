@@ -24,7 +24,7 @@ The design features a modern glassmorphism style with smooth gradients, blurred 
 
 ## Live Demo
 
-👉 [View the calculator here](https://guy-biton.github.io/Bono-App/)
+👉 [View the calculator here](https://guy-biton.github.io/Simple-Calculator/Calculator)
 
 ## Preview
 
